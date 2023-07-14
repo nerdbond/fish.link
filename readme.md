@@ -12,7 +12,7 @@
 
 <h3 align='center'>fish.link</h3>
 <p align='center'>
-  The BaseLink Linter and Prettifier Framework
+  The BaseLink Linting Library
 </p>
 
 <br/>
