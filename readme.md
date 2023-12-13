@@ -7,10 +7,10 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/fish.link/blob/make/view/view.svg?raw=true' height='312'>
+  <img src='https://github.com/termsurf/fish.note/blob/make/view/view.svg?raw=true' height='312'>
 </p>
 
-<h3 align='center'>fish.link</h3>
+<h3 align='center'>fish.note</h3>
 <p align='center'>
   The BaseLink Linting Library
 </p>
