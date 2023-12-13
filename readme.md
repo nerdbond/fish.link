@@ -12,7 +12,7 @@
 
 <h3 align='center'>fish.note</h3>
 <p align='center'>
-  The BaseLink Linting Library
+  The BaseNote Linting Library
 </p>
 
 <br/>
