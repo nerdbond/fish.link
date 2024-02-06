@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/fish.note/blob/make/view/view.svg?raw=true' height='312'>
+  <img src='https://github.com/termsurf/fish.leaf/blob/make/view/view.svg?raw=true' height='312'>
 </p>
 
-<h3 align='center'>fish.note</h3>
+<h3 align='center'>fish.leaf</h3>
 <p align='center'>
-  The BaseNote Linting Library
+  The SeedLeaf Linting Library
 </p>
 
 <br/>
