@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/fish.leaf/blob/make/view/view.svg?raw=true' height='312'>
+  <img src='https://github.com/termsurf/fish.star/blob/make/view/view.svg?raw=true' height='312'>
 </p>
 
-<h3 align='center'>fish.leaf</h3>
+<h3 align='center'>fish.star</h3>
 <p align='center'>
-  The SeedLeaf Linting Library
+  The Star Linting Library
 </p>
 
 <br/>
