@@ -6,13 +6,9 @@
 <br/>
 <br/>
 
+<h3 align='center'>lint.tree</h3>
 <p align='center'>
-  <img src='https://github.com/termsurf/fish.tree/blob/make/view/view.svg?raw=true' height='312'>
-</p>
-
-<h3 align='center'>fish.tree</h3>
-<p align='center'>
-  The BaseTree Linting Library
+  The NoteTree Linting Library
 </p>
 
 <br/>
